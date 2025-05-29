@@ -101,4 +101,4 @@ The API documentation is available at `http://localhost:5000/api/docs` when the 
 5. Open a Pull Request
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
