@@ -1,0 +1,166 @@
+[
+  {
+    "id": "Q001",
+    "text": "Explain the concept of the  object-oriented programming and its main principles.",
+    "correctAnswer": "The Object-oriented programming (OOP) is a programming paradigm based on the concept of objects. The main principles are: 1) Encapsulation - bundling data and methods together, 2) Inheritance - creating new classes based on existing ones, 3) Polymorphism - objects of different types responding to the same interface, 4) Abstraction - hiding complex implementation details.",
+    "difficulty": "Medium",
+    "pointValue": 15,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [
+      "OOP",
+      "Concepts",
+      "JAVA"
+    ],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q002",
+    "text": "What is python",
+    "correctAnswer": "Python is a backend language that used for creating so many tasks",
+    "difficulty": "Easy",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [
+      "Python",
+      "Backend"
+    ],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q003",
+    "text": "what is cloud computing ?",
+    "correctAnswer": "Cloud computing is a thing that we use as a data storage",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [
+      "Cloud",
+      "Devops"
+    ],
+    "timeLimit": 10,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q005",
+    "text": "what is object oriented programming",
+    "correctAnswer": "Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects, which combine data (attributes) and behaviors (methods). It emphasizes principles like encapsulation, inheritance, polymorphism, and abstraction, promoting modularity, reusability, and scalability in software design.",
+    "difficulty": "Hard",
+    "pointValue": 15,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [
+      "OOP",
+      "JAVA"
+    ],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q007",
+    "text": "what is AI/ML",
+    "correctAnswer": "Artificial Intelligence (AI) refers to the simulation of human-like intelligence in machines, enabling them to perform tasks such as reasoning, learning, and problem-solving. Machine Learning (ML) is a subset of AI that uses statistical methods and algorithms to allow machines to learn patterns from data and improve performance over time without being explicitly programmed.\n",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [
+      "Ai/ML"
+    ],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q010",
+    "text": "what is an algorithm",
+    "correctAnswer": "algorithm is a ",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [],
+    "timeLimit": 5,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q011",
+    "text": "What Is BA ?",
+    "correctAnswer": "BA (Business Analysis) is the practice of identifying business needs, analyzing problems, and proposing solutions that deliver value to stakeholders. Business analysts bridge the gap between business and IT by gathering requirements, documenting processes, and ensuring that solutions align with business goals.",
+    "difficulty": "Easy",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q012",
+    "text": "What are OOP concepts? ",
+    "correctAnswer": "The key OOP (Object-Oriented Programming) concepts are encapsulation (bundling data and methods), inheritance (reusing and extending classes), polymorphism (using common interfaces for flexibility), and abstraction (hiding internal details, exposing only what\u2019s necessary). These principles help design modular, reusable, and maintainable software.",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q013",
+    "text": "what is AI/ML",
+    "correctAnswer": "Artificial Intelligence (AI) refers to the simulation of human-like intelligence in machines, enabling them to perform tasks such as reasoning, learning, and problem-solving. Machine Learning (ML) is a subset of AI that uses statistical methods and algorithms to allow machines to learn patterns from data and improve performance over time without being explicitly programmed.",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true,
+    "dueDate": ""
+  },
+  {
+    "id": "Q014",
+    "text": "What is PO ?",
+    "correctAnswer": "PO (Product Owner) is a key role in agile frameworks like Scrum, responsible for maximizing the value of the product by managing the product backlog, defining user stories, prioritizing tasks, and ensuring the development team delivers features that meet business and customer needs.",
+    "difficulty": "Medium",
+    "pointValue": 10,
+    "hasReference": false,
+    "submissionCount": 0,
+    "isActive": true,
+    "tags": [],
+    "timeLimit": null,
+    "allowFileUpload": true,
+    "allowTextAnswer": true
+  }
+]
